@@ -1,6 +1,4 @@
 # ERA
-![image](https://github.com/anushapv2000/ERA/assets/71582463/9de97bf0-b449-49b0-a2bd-6921b5cf70d9)
-=======
 ![image](https://github.com/anushapv2000/ERA/assets/71582463/30124ba7-afe2-47cf-963c-aa602845d10d)
 </br>
 ## The above shown is a sample neural network inorder to showcase the steps for forward and backward propagation
