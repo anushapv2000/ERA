@@ -1,4 +1,6 @@
 # ERA
+![image](https://github.com/anushapv2000/ERA/assets/71582463/9de97bf0-b449-49b0-a2bd-6921b5cf70d9)
+=======
 ![image](https://github.com/anushapv2000/ERA/assets/71582463/30124ba7-afe2-47cf-963c-aa602845d10d)
 </br>
 ## The above shown is a sample neural network inorder to showcase the steps for forward and backward propagation
@@ -25,6 +27,7 @@ In the same way all the weights can be computed by the following steps
 * ![image](https://github.com/anushapv2000/ERA/assets/71582463/0449cedd-1d40-4aba-bc2e-b15fb428e625)
 * ![image](https://github.com/anushapv2000/ERA/assets/71582463/82b4598b-a944-4bf1-afb8-5da4f827d8e2)
 * ![image](https://github.com/anushapv2000/ERA/assets/71582463/e4c89398-4d62-46ae-b40d-4b546673744a)
+
 
 
 
